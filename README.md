@@ -21,7 +21,9 @@
 
 8. Create your models;
 
-9. Pack up your model changes into a migration file:
+9. add your db.sqlite3 to your `.gitignore` file
+
+10. Pack up your model changes into a migration file:
 
 `python3 manage.py makemigrations`
 
